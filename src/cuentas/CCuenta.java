@@ -8,6 +8,7 @@ package cuentas;
 /**
  *
  * @author eland
+ * Os pedí el enlace al repositorio en el trabajo
  */
 public class CCuenta {
 
